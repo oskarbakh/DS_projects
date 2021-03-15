@@ -4,7 +4,7 @@ Clients started to leave bank. It is cheaper and easier to save the clients than
 
 Throughout the project have been done:
 
-* dataset cleaning (outlier treatment, empty records treatments);
+* dataset cleaning (outlier treatment, empty records treatment);
 * Exploratory Data Analysis (correlations, statistical tests);
 * dataset split;
 * basic hyperparameters tuning;
